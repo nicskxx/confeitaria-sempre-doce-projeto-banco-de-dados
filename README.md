@@ -18,3 +18,6 @@ A **Confeitaria Sempre Doce** deseja criar um site para vender seus doces que s√
  - Telefone
  - Endere√ßo
  - Texto da mensagem
+
+ ## Modelagem conceitual
+ ![](Captura%20de%20tela%202026-08-11%20143548.png)
