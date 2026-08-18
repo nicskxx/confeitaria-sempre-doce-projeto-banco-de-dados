@@ -21,3 +21,6 @@ A **Confeitaria Sempre Doce** deseja criar um site para vender seus doces que s√
 
  ## Modelagem conceitual
  ![](Captura%20de%20tela%202026-08-11%20143548.png)
+ ## modelo logico
+ ![](Untitled%20Diagram_2026-08-18T19_16_03.912Z%20(1).png)
+    
